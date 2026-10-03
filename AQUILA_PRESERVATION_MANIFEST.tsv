@@ -1,0 +1,893 @@
+path	kind	add	rem	polish_lines	aq_edit_markers	upstream_changed	both_sides	textual_conflict	upstream_stages	risk	modularization_class	aquila_commits_sample
+.github/workflows/compile_changelogs.yml	INFRASTRUCTURE	1	1	0	0	N	N	N		LOW	n/a	sprawia że changelogi się aktualizują z naszymi zm
+.github/workflows/continuous_integration.yml	INFRASTRUCTURE	2	2	0	0	N	N	N		LOW	n/a	Kompilacja dotychczasowych zmian Jokera (bez porto
+.github/workflows/extra_pr_labels.yml	INFRASTRUCTURE	1	1	0	0	N	N	N		LOW	n/a	sprawia że changelogi się aktualizują z naszymi zm
+.github/workflows/make_changelogs.yml	INFRASTRUCTURE	1	1	0	0	N	N	N		LOW	n/a	sprawia że changelogi się aktualizują z naszymi zm
+_maps/RandomRooms/10x10/sk_rdm167_library_ritual.dmm	MAP	776	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRooms/10x5/sk_rdm161_kilovault.dmm	MAP	246	321	0	0	N	N	N		LOW	n/a	
+_maps/RandomRooms/3x3/sk_rdm162_control_room.dmm	MAP	124	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRooms/3x3/sk_rdm163_corgi_butcher.dmm	MAP	126	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRooms/3x3/sk_rdm164_cornucopia.dmm	MAP	73	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRooms/3x3/sk_rdm_165_library.dmm	MAP	90	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRooms/3x5/sk_rdm168_offish.dmm	MAP	114	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRooms/5x4/sk_rdm166_printing_press.dmm	MAP	212	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRooms/5x4/sk_rdm169_solars.dmm	MAP	242	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRooms/engine/atlas_engine_stormdrive.dmm	MAP	1085	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRooms/engine/atlas_engine_supermatter.dmm	MAP	2033	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRooms/engine/atlas_engine_tesla.dmm	MAP	1442	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRuins/GulagRuins/ashwalker.dmm	MAP	3408	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRuins/GulagRuins/gameroom.dmm	MAP	2682	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRuins/GulagRuins/golem.dmm	MAP	2594	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRuins/GulagRuins/menele.dmm	MAP	2293	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRuins/GulagRuins/seed.dmm	MAP	2175	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRuins/GulagRuins/syndicate_bio.dmm	MAP	7766	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomRuins/GulagRuins/syndicate_listening.dmm	MAP	2808	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomZLevels/Academy.dmm	MAP	21054	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomZLevels/TheFactory.dmm	MAP	93718	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomZLevels/challenge.dmm	MAP	66668	0	0	0	N	N	N		LOW	n/a	
+_maps/RandomZLevels/wildwest.dmm	MAP	67545	0	0	0	N	N	N		LOW	n/a	
+_maps/_basemap.dm	CONFIG	10	1	0	1	Y	Y	N	4	MEDIUM(both sides changed)	n/a	
+_maps/aquila_atlas.dm	CONFIG	1	0	0	0	N	N	N		LOW	n/a	
+_maps/aquila_atlas.json	CONFIG	45	0	0	0	N	N	N		LOW	n/a	
+_maps/aquila_serendipity.dm	CONFIG	1	0	0	0	N	N	N		LOW	n/a	
+_maps/aquila_serendipity.json	CONFIG	32	0	0	0	N	N	N		LOW	n/a	
+_maps/aquila_snake.dm	CONFIG	1	0	0	0	N	N	N		LOW	n/a	
+_maps/aquila_snake.json	CONFIG	44	0	0	0	N	N	N		LOW	n/a	
+_maps/atlantis.dm	CONFIG	1	0	0	0	N	N	N		LOW	n/a	Dodaje atlantis, DO MERGE (#39)
+_maps/atlantis.json	CONFIG	29	0	0	0	N	N	N		LOW	n/a	Dodaje atlantis, DO MERGE (#39)
+_maps/atlas.json	CONFIG	2	1	0	0	N	N	N		LOW	n/a	Ładowanie mapy gułagu (#76)
+_maps/map_files/Aetherwhisp/Aetherwhisp2.dmm	MAP	73	7	0	0	Y	Y	N	1	MEDIUM(both sides changed)	n/a	
+_maps/map_files/Aquila_Atlas/Aquila_Atlas.dmm	MAP	85227	0	3	0	N	N	N		LOW	n/a	
+_maps/map_files/Aquila_Atlas/Aquila_Atlas2.dmm	MAP	81767	0	1	0	N	N	N		LOW	n/a	
+_maps/map_files/Aquila_Atlas/job_changes.dm	CONFIG	79	0	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Aquila_Serendipity/Aquila_Serendipity1.dmm	MAP	81869	0	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Aquila_Serendipity/Aquila_Serendipity2.dmm	MAP	77039	0	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Aquila_Serendipity/job_changes.dm	CONFIG	46	0	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Aquila_Snake/Aquila_Snake_Lower.dmm	MAP	80930	0	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Aquila_Snake/Aquila_Snake_Upper.dmm	MAP	74752	0	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Atlantis/Atlantis.dmm	MAP	96382	0	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Atlantis/Atlantis2.dmm	MAP	90440	0	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Atlantis/job_changes.dm	CONFIG	18	0	0	0	N	N	N		LOW	n/a	Dodaje atlantis, DO MERGE (#39)
+_maps/map_files/Atlas/atlas.dmm	MAP	14162	10768	3	0	N	N	N		LOW	n/a	
+_maps/map_files/Atlas/atlas2.dmm	MAP	11234	6760	1	0	N	N	N		LOW	n/a	
+_maps/map_files/Atlas/job_changes.dm	CONFIG	14	3	0	0	N	N	N		LOW	n/a	Aktualizacja medbaya - Unibel (#237) | [atlas] medbay zmiany + fixy w innych miejscach (#
+_maps/map_files/Eclipse/Eclipse1.dmm	MAP	1	1	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Eclipse/Eclipse2.dmm	MAP	72	6	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Galactica/Galactica2.dmm	MAP	60	5	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Gladius/Gladius1.dmm	MAP	1	1	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Gladius/Gladius2.dmm	MAP	62	7	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Hammerhead/Hammerhead.dmm	MAP	37	4	0	0	Y	Y	N	1	MEDIUM(both sides changed)	n/a	
+_maps/map_files/Mining/nsv13/gulag.dmm	MAP	67479	0	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Mining/nsv13/ruins/mining28.dmm	MAP	4	4	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Serendipity/Serendipity1.dmm	MAP	3457	2910	0	0	Y	Y	Y	1	HIGH(textual conflict)	n/a	
+_maps/map_files/Serendipity/Serendipity2.dmm	MAP	416	171	0	0	Y	Y	Y	1	HIGH(textual conflict)	n/a	
+_maps/map_files/Shrike/Shrike2.dmm	MAP	72	6	0	0	Y	Y	Y	3	HIGH(textual conflict)	n/a	
+_maps/map_files/Snake/snake_lower.dmm	MAP	3379	2931	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Snake/snake_upper.dmm	MAP	362	252	0	0	N	N	N		LOW	n/a	
+_maps/map_files/Tycoon/Tycoon2.dmm	MAP	51	18	0	0	Y	Y	N	4	MEDIUM(both sides changed)	n/a	
+_maps/map_files/Vago/vagodeck2.dmm	MAP	72	6	0	0	N	N	N		LOW	n/a	
+_maps/map_files/generic/CentCom.dmm	MAP	4633	2949	0	0	Y	Y	N	3	MEDIUM(both sides changed)	n/a	
+_maps/shuttles/cargo/cargo_atlas.dmm	MAP	17	6	0	0	N	N	N		LOW	n/a	
+_maps/shuttles/emergency/emergency_atlas.dmm	MAP	10	18	0	0	N	N	N		LOW	n/a	
+_maps/shuttles/emergency/emergency_raven.dmm	MAP	1	1	0	0	N	N	N		LOW	n/a	
+_maps/shuttles/infiltrator/infiltrator_cutter.dmm	MAP	1402	0	0	0	N	N	N		LOW	n/a	
+_maps/templates/heretic_sacrifice_template.dmm	MAP	1454	0	0	0	N	N	N		LOW	n/a	
+cheese.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+code/__DEFINES/DNA.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	polish (#197)
+code/__DEFINES/antagonists.dm	GAMEPLAY	23	4	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/__DEFINES/colors.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/__DEFINES/configuration.dm	GAMEPLAY	2	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/__DEFINES/contracts.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	Guzik na seks (#84)
+code/__DEFINES/dcs/signals/signals_global.dm	GAMEPLAY	4	0	0	2	N	N	N		LOW	-	Dodaje wybuchowy implant który reaguje na eksplozj
+code/__DEFINES/dcs/signals/signals_mob/signals_human.dm	GAMEPLAY	14	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/__DEFINES/dcs/signals/signals_mob/signals_living.dm	GAMEPLAY	2	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/__DEFINES/is_helpers.dm	GAMEPLAY	2	0	0	0	Y	Y	N	1	MEDIUM(both sides changed)	-	Heretycy z bee (#90)
+code/__DEFINES/jobs.dm	MIXED	53	53	15	0	N	N	N		LOW	A	Naprawia spawny paru prac (#290) | Pakiet tłumaczeń (#73)
+code/__DEFINES/maps.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/__DEFINES/misc.dm	GAMEPLAY	10	2	0	5	N	N	N		LOW	-	Requested feature (#287) | Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/__DEFINES/mobs.dm	GAMEPLAY	28	1	0	4	N	N	N		LOW	-	Qłikfiks (#292) | Requested feature (#287)
+code/__DEFINES/movespeed_modification.dm	GAMEPLAY	3	0	0	0	N	N	N		LOW	-	Space Dragon Rework (#238)
+code/__DEFINES/nanites.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	 Nanity 2.0 #754 (#18)
+code/__DEFINES/obj_flags.dm	GAMEPLAY	5	0	0	0	N	N	N		LOW	-	Machanie przedmiotami i jakieś inne bajery (#235) | Heretycy z bee (#90)
+code/__DEFINES/preferences.dm	MIXED	3	1	1	2	N	N	N		LOW	C	Dodaje dzwieki radia  (#4)
+code/__DEFINES/radio.dm	MIXED	17	17	8	2	N	N	N		LOW	A	tłumaczenia (#53)
+code/__DEFINES/role_preferences.dm	GAMEPLAY	8	0	0	1	N	N	N		LOW	-	Infiltratorzy  (#296) | Heretycy z bee (#90)
+code/__DEFINES/say.dm	GAMEPLAY	2	0	0	1	N	N	N		LOW	-	joker rozdaje drain bamage (#60)
+code/__DEFINES/sound.dm	GAMEPLAY	2	0	0	1	N	N	N		LOW	-	Heretycy z bee (#90) | Jukebox [Port 789] (#28)
+code/__DEFINES/traits.dm	GAMEPLAY	14	1	0	2	N	N	N		LOW	-	Requested feature (#287) | Cortex folding (#244)
+code/__HELPERS/_lists.dm	GAMEPLAY	10	0	0	0	Y	Y	Y	1	HIGH(textual conflict)	-	Heretycy z bee (#90)
+code/__HELPERS/cmp.dm	GAMEPLAY	3	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/__HELPERS/global_lists.dm	GAMEPLAY	2	0	0	1	N	N	N		LOW	-	takie kibajndy do emotek [port 674] (#24)
+code/__HELPERS/mobs.dm	GAMEPLAY	20	3	0	0	N	N	N		LOW	-	Revert "Replay" (#308) | Replay (#205)
+code/__HELPERS/names.dm	GAMEPLAY	5	0	0	2	N	N	N		LOW	-	tłumaczy bełkot naukowców + imiona (#58)
+code/__HELPERS/priority_announce.dm	LOCALIZATION	3	3	2	0	Y	Y	Y	3	HIGH(textual conflict)	C	tłumaczenia część kolejna [PORT 1062] (#42)
+code/__HELPERS/roundend.dm	GAMEPLAY	16	1	0	4	N	N	N		LOW	-	szczury (#195) | zmiany dotyczące hajsu oraz kodów nuklearnych (#93
+code/__HELPERS/text.dm	MIXED	4	4	2	2	N	N	N		LOW	C	polskie znaki specjalne, port #576 (#10)
+code/__HELPERS/turfs.dm	GAMEPLAY	23	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/_globalvars/bitfields.dm	GAMEPLAY	2	0	0	0	Y	Y	N	2	MEDIUM(both sides changed)	-	Machanie przedmiotami i jakieś inne bajery (#235)
+code/_globalvars/lists/ambience.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Więcej ambientów w kosmosie [Port 350] (#25)
+code/_globalvars/lists/flavor_misc.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	Dodaje drobne tłumaczenia ikon [port 552], tablic 
+code/_globalvars/lists/names.dm	GAMEPLAY	3	2	0	3	N	N	N		LOW	-	tłumaczy bełkot naukowców + imiona (#58)
+code/_globalvars/lists/poll_ignore.dm	GAMEPLAY	4	1	0	4	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew ( | Monkey uprising [Port 281] (#65)
+code/_globalvars/traits.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew ( | Aktualizacja do NSV13 (#68)
+code/_onclick/hud/_defines.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	Dodaje ghost role do gulagu i guzik na ghost role 
+code/_onclick/hud/ghost.dm	GAMEPLAY	13	0	0	0	N	N	N		LOW	-	Dodaje ghost role do gulagu i guzik na ghost role 
+code/_onclick/hud/screen_objects.dm	GAMEPLAY	10	0	0	0	N	N	N		LOW	-	Dodaje ghost role do gulagu i guzik na ghost role 
+code/_onclick/item_attack.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/controllers/configuration/configuration.dm	GAMEPLAY	23	1	0	5	N	N	N		LOW	-	joker rozdaje drain bamage (#60)
+code/controllers/subsystem/communications.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	dźwięk komunikatu, port #91 (#9)
+code/controllers/subsystem/events.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	zmiany z dotychczasowych gier (#79)
+code/controllers/subsystem/fire_burning.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/controllers/subsystem/input.dm	GAMEPLAY	5	0	0	1	N	N	N		LOW	-	Dżokerowskie tłiki (#105) | Kompilacja dotychczasowych zmian Jokera (bez porto
+code/controllers/subsystem/job.dm	GAMEPLAY	2	2	0	1	N	N	N		LOW	-	Command w puli rol losowych (#204)
+code/controllers/subsystem/mapping.dm	GAMEPLAY	4	0	0	0	N	N	N		LOW	-	Ładowanie mapy gułagu (#76)
+code/controllers/subsystem/nightshift.dm	LOCALIZATION	4	4	4	2	N	N	N		LOW	C	reszta tłumaczeń i idk co jeszcze (#59)
+code/controllers/subsystem/processing/gravity_aura.dm	GAMEPLAY	5	0	0	0	N	N	N		LOW	-	Space Dragon Rework (#238)
+code/datums/action.dm	LOCALIZATION	76	68	57	0	N	N	N		LOW	B/C	Space Dragon Rework (#238) | Translejszyn part tu [PORT 88] (#41)
+code/datums/ai/dog/dog_controller.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	C	Tlumaczenia (#261) | Pakiet tłumaczeń (#73)
+code/datums/ai_laws.dm	LOCALIZATION	102	101	98	1	N	N	N		LOW	B/C	Prawa ej aj (#37) | Kompilacja dotychczasowych zmian Jokera (bez porto
+code/datums/brain_damage/severe.dm	GAMEPLAY	2	2	0	2	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/datums/brain_damage/special.dm	GAMEPLAY	2	2	0	2	N	N	N		LOW	-	głos dla Beepskyego, port #736 (#12)
+code/datums/brain_damage/split_personality.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	takie kibajndy do emotek [port 674] (#24)
+code/datums/components/aiming.dm	LOCALIZATION	3	3	3	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+code/datums/components/crafting/crafting.dm	BUGFIX	7	1	0	0	N	N	N		LOW	-	Bugfixy & tweaki 29-02-2024 - Unibel (#256)
+code/datums/components/gravity_aura.dm	GAMEPLAY	44	0	0	0	N	N	N		LOW	-	Space Dragon Rework (#238)
+code/datums/components/mood.dm	MIXED	10	1	3	0	N	N	N		LOW	C	Requested feature (#287) | Heretycy z bee (#90)
+code/datums/components/nanites.dm	GAMEPLAY	2	2	0	2	N	N	N		LOW	-	 Nanity 2.0 #754 (#18)
+code/datums/components/storage/concrete/_concrete.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	animacje plecaków i takich (#223)
+code/datums/components/storage/concrete/pockets.dm	GAMEPLAY	9	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/datums/components/storage/storage.dm	GAMEPLAY	16	0	0	0	N	N	N		LOW	-	animacje plecaków i takich (#223)
+code/datums/diseases/advance/advance.dm	GAMEPLAY	8	3	0	3	N	N	N		LOW	-	Sentient Disease (#227) | tłumaczy bełkot naukowców + imiona (#58)
+code/datums/diseases/advance/symptoms/flesh_eating.dm	GAMEPLAY	18	0	0	0	N	N	N		LOW	-	Viro Romerol (#225)
+code/datums/diseases/advance/symptoms/macrophage.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	Exolocomotive Xenomitosis (#228)
+code/datums/diseases/advance/symptoms/shivering.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+code/datums/elements/strippable.dm	GAMEPLAY	4	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/datums/helper_datums/teleport.dm	GAMEPLAY	1	31	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/datums/hud.dm	GAMEPLAY	2	1	0	1	N	N	N		LOW	-	Vampires (#284)
+code/datums/keybinding/_defines.dm	GAMEPLAY	2	0	0	1	N	N	N		LOW	-	takie kibajndy do emotek [port 674] (#24)
+code/datums/keybinding/human.dm	GAMEPLAY	8	8	0	0	N	N	N		LOW	-	
+code/datums/looping_sounds/weather.dm	GAMEPLAY	6	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/datums/map_config.dm	GAMEPLAY	4	0	0	2	N	N	N		LOW	-	Ładowanie mapy gułagu (#76)
+code/datums/martial/tribal_claw.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	Space Dragon Rework (#238)
+code/datums/mutations/body.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/datums/mutations/speech.dm	MIXED	16	14	8	1	N	N	N		LOW	C	polish (#197)
+code/datums/mutations/touch.dm	GAMEPLAY	4	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/datums/saymode.dm	GAMEPLAY	2	0	0	0	N	N	N		LOW	-	Space Dragon Rework (#238)
+code/datums/soullink.dm	GAMEPLAY	0	2	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/datums/status_effects/buffs.dm	GAMEPLAY	47	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/datums/status_effects/debuffs.dm	GAMEPLAY	101	60	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/datums/traits/good.dm	LOCALIZATION	79	65	64	0	N	N	N		LOW	B	Translejszyn part tu [PORT 88] (#41)
+code/datums/traits/negative.dm	LOCALIZATION	144	139	118	0	N	N	N		LOW	B/C	Zmiana negative.dm "krwii" na "krwi" (#176) | Translejszyn part tu [PORT 88] (#41)
+code/datums/traits/neutral.dm	LOCALIZATION	34	30	26	0	N	N	N		LOW	B/C	Translejszyn part tu [PORT 88] (#41)
+code/datums/weather/weather.dm	GAMEPLAY	4	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/datums/weather/weather_types/ash_storm.dm	LOCALIZATION	5	5	5	0	N	N	N		LOW	B	reszta tłumaczeń i idk co jeszcze (#59)
+code/datums/weather/weather_types/radiation_storm.dm	LOCALIZATION	3	3	3	0	N	N	N		LOW	B/C	Pakiet tłumaczeń (#73)
+code/datums/weather/weather_types/void_storm.dm	GAMEPLAY	31	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/game/area/Space_Station_13_areas.dm	MIXED	312	312	163	1	N	N	N		LOW	B	Bugfixy & tweaki 29-02-2024 - Unibel (#256) | Pakiet tłumaczeń (#73)
+code/game/area/ai_monitored.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	tłumaczenia (#53)
+code/game/atoms_movable.dm	MIXED	54	8	3	2	N	N	N		LOW	B	Machanie przedmiotami i jakieś inne bajery (#235) | tłumaczenia (#53)
+code/game/gamemodes/brother/traitor_bro.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/changeling/changeling.dm	LOCALIZATION	5	8	3	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/changeling/traitor_chan.dm	LOCALIZATION	1	3	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/cult/cult.dm	MIXED	5	9	2	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/devil/devil_game_mode.dm	LOCALIZATION	4	5	3	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/devil/objectives.dm	GAMEPLAY	3	1	0	2	N	N	N		LOW	-	Guzik na seks (#84)
+code/game/gamemodes/dynamic/dynamic_rulesets_latejoin.dm	GAMEPLAY	17	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/game/gamemodes/dynamic/dynamic_rulesets_midround.dm	GAMEPLAY	44	0	0	0	N	N	N		LOW	-	Space Dragon Rework (#238)
+code/game/gamemodes/dynamic/dynamic_rulesets_roundstart.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/game/gamemodes/eldritch_cult/eldritch_cult.dm	MIXED	3	4	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/events.dm	LOCALIZATION	3	3	3	3	N	N	N		LOW	C	tłumaczenia (#53)
+code/game/gamemodes/events/event.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/game_mode.dm	GAMEPLAY	4	2	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/gangs/gangs.dm	MIXED	4	4	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/hivemind/hivemind.dm	LOCALIZATION	1	3	1	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/incursion/incursion.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/meteor/meteor.dm	LOCALIZATION	6	7	6	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/nuclear/nuclear.dm	MIXED	4	6	2	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/objective.dm	LOCALIZATION	90	90	56	1	N	N	N		LOW	B/C	tłumaczenia (#53)
+code/game/gamemodes/objective_items.dm	LOCALIZATION	32	32	21	0	N	N	N		LOW	B	Translejszyn part tu [PORT 88] (#41)
+code/game/gamemodes/overthrow/overthrow.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/revolution/revolution.dm	LOCALIZATION	5	7	3	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/traitor/double_agents.dm	LOCALIZATION	1	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/traitor/traitor.dm	MIXED	5	6	2	0	Y	Y	N	3	MEDIUM(both sides changed)	C	tłumaczenia część kolejna [PORT 1062] (#42) | Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/gamemodes/wizard/wizard.dm	LOCALIZATION	6	8	5	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/machinery/_machinery.dm	BUGFIX	7	3	0	0	N	N	N		LOW	-	Bugfixy & tweaki 29-02-2024 - Unibel (#256) | Heretycy z bee (#90)
+code/game/machinery/announcement_system.dm	LOCALIZATION	4	4	4	0	N	N	N		LOW	B/C	Pakiet tłumaczeń (#73) | Kompilacja dotychczasowych zmian Jokera (bez porto
+code/game/machinery/computer/Operating.dm	GAMEPLAY	24	4	0	0	N	N	N		LOW	-	Łączenie Stasis Beds (#233)
+code/game/machinery/computer/_computer.dm	GAMEPLAY	2	0	0	2	N	N	N		LOW	-	Ambiencja [port 605] (#34)
+code/game/machinery/computer/communications.dm	GAMEPLAY	5	0	0	3	N	N	N		LOW	-	ERT na zawołanie załogi - mniej więcej (#286)
+code/game/machinery/computer/prisoner/gulag_teleporter.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Gaz BZ i tweaki (#196)
+code/game/machinery/computer/security.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tłumaczy bełkot naukowców + imiona (#58)
+code/game/machinery/dance_machine.dm	GAMEPLAY	0	461	0	0	N	N	N		LOW	-	Jukebox [Port 789] (#28)
+code/game/machinery/doppler_array.dm	LOCALIZATION	5	5	5	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+code/game/machinery/fabricators/modular_fabricator.dm	GAMEPLAY	2	0	0	2	N	N	N		LOW	-	Ambiencja [port 605] (#34)
+code/game/machinery/lightswitch.dm	GAMEPLAY	2	1	0	2	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/game/machinery/newscaster.dm	LOCALIZATION	5	5	3	5	N	N	N		LOW	C	Njuskatery [port 608] (#17)
+code/game/machinery/stasis.dm	BUGFIX	34	3	0	1	N	N	N		LOW	-	Bugfixy & tweaki 29-02-2024 - Unibel (#256) | Łączenie Stasis Beds (#233)
+code/game/machinery/suit_storage_unit.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	dodanie kostiumow, qol modularyzacji, ikony error 
+code/game/machinery/telecomms/broadcasting.dm	GAMEPLAY	4	0	0	2	N	N	N		LOW	-	Revert "Replay" (#308) | Replay (#205)
+code/game/mecha/mecha.dm	GAMEPLAY	6	6	0	5	N	N	N		LOW	-	Heretycy z bee (#90) | krwiste dźwięki (#48)
+code/game/objects/effects/contraband.dm	MIXED	16	16	7	2	N	N	N		LOW	C	tłumaczenia część kolejna [PORT 1062] (#42) | HEV suit, Plakaty port #404 #399 (#6)
+code/game/objects/effects/decals/cleanable.dm	GAMEPLAY	6	8	0	2	N	N	N		LOW	-	Requested feature (#287) | Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/game/objects/effects/decals/cleanable/humans.dm	GAMEPLAY	20	30	0	6	N	N	N		LOW	-	Requested feature (#287) | Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/game/objects/effects/decals/misc.dm	GAMEPLAY	2	2	0	2	N	N	N		LOW	-	 Port dymków 'Pointing at something on yourself no
+code/game/objects/effects/landmarks.dm	MIXED	41	41	8	0	N	N	N		LOW	B	Naprawia spawny paru prac (#290) | Naprawia random maint landmarki (#104)
+code/game/objects/effects/spawners/lootdrop.dm	GAMEPLAY	15	3	0	5	N	N	N		LOW	-	Dodano nowy zestaw praw dla AI - Benjamin Netanyah | Prawa ej aj (#37)
+code/game/objects/effects/spawners/roomspawner.dm	GAMEPLAY	17	1	0	4	N	N	N		LOW	-	[Atlas] Losowe silniki - Rework Inżynierii, Atmosf | Dodaje ghost role do gulagu i guzik na ghost role 
+code/game/objects/effects/temporary_visuals/miscellaneous.dm	BUGFIX	11	0	0	0	N	N	N		LOW	-	Bugfixy & tweaki 29-02-2024 - Unibel (#256)
+code/game/objects/items.dm	GAMEPLAY	10	3	0	3	N	N	N		LOW	-	Machanie przedmiotami i jakieś inne bajery (#235) |  Port dymków 'Pointing at something on yourself no
+code/game/objects/items/cardboard_cutouts.dm	GAMEPLAY	2	2	0	2	N	N	N		LOW	-	tłumaczy bełkot naukowców + imiona (#58)
+code/game/objects/items/cards_ids.dm	MIXED	11	2	1	4	N	N	N		LOW	B	zmiany dotyczące hajsu oraz kodów nuklearnych (#93 | tłumaczy bełkot naukowców + imiona (#58)
+code/game/objects/items/cigs_lighters.dm	BUGFIX	9	0	0	0	N	N	N		LOW	-	Bugfixy & tweaki 29-02-2024 - Unibel (#256)
+code/game/objects/items/crayons.dm	GAMEPLAY	11	5	0	2	N	N	N		LOW	-	naprawia spray gangow (#61) | kremdki :100: [PORT 405] (#43)
+code/game/objects/items/devices/anomaly_neutralizer.dm	GAMEPLAY	17	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/game/objects/items/devices/megaphone.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	 Wincyj dźwięków #562 (#19)
+code/game/objects/items/devices/powersink.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	Machanie przedmiotami i jakieś inne bajery (#235)
+code/game/objects/items/devices/scanners.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	apteczki i skaner, port #185 (#13)
+code/game/objects/items/dna_injector.dm	GAMEPLAY	6	6	0	2	N	N	N		LOW	-	polish (#197)
+code/game/objects/items/flamethrower.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/game/objects/items/holy_weapons.dm	GAMEPLAY	9	1	0	6	N	N	N		LOW	-	Egzorcysta za niecałe trzysta (#252) | Heretycy z bee (#90)
+code/game/objects/items/melee/misc.dm	LOCALIZATION	14	6	14	0	N	N	N		LOW	C	Tonfa milicyjna (#267)
+code/game/objects/items/religion.dm	MIXED	6	6	2	0	N	N	N		LOW	B	Pakiet tłumaczeń (#73)
+code/game/objects/items/stacks/medical.dm	GAMEPLAY	2	1	0	2	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/game/objects/items/stacks/sheets/sheet_types.dm	MIXED	32	0	1	0	N	N	N		LOW	C	ser (#202) | krzyzyk na droge (#106)
+code/game/objects/items/storage/backpack.dm	MIXED	22	22	11	0	N	N	N		LOW	B	tłumaczenia część kolejna [PORT 1062] (#42)
+code/game/objects/items/storage/bags.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	animacje plecaków i takich (#223) | Heretycy z bee (#90)
+code/game/objects/items/storage/boxes.dm	MIXED	39	11	9	2	N	N	N		LOW	B	ser (#202) | pierogi, lasery, nauka, port #347 (#31)
+code/game/objects/items/storage/fancy.dm	BUGFIX	10	2	0	0	N	N	N		LOW	-	Bugfixy & tweaki 29-02-2024 - Unibel (#256)
+code/game/objects/items/storage/firstaid.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	apteczki i skaner, port #185 (#13)
+code/game/objects/items/storage/secure.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/game/objects/items/storage/storage.dm	GAMEPLAY	11	6	0	1	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/game/objects/items/storage/uplink_kits.dm	GAMEPLAY	2	1	0	2	N	N	N		LOW	-	dodanie kostiumow, qol modularyzacji, ikony error 
+code/game/objects/items/tanks/jetpack.dm	GAMEPLAY	5	0	0	1	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/game/objects/items/toys.dm	GAMEPLAY	5	2	0	0	N	N	N		LOW	-	Machanie przedmiotami i jakieś inne bajery (#235) | Heretycy z bee (#90)
+code/game/objects/obj_defense.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	reszta tłumaczeń i idk co jeszcze (#59)
+code/game/objects/structures.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/game/objects/structures/aliens.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Exolocomotive Xenomitosis (#228)
+code/game/objects/structures/beds_chairs/bed.dm	BUGFIX	17	0	0	0	N	N	N		LOW	-	Bugfixy & tweaki 29-02-2024 - Unibel (#256)
+code/game/objects/structures/crates_lockers/closets.dm	GAMEPLAY	5	0	0	1	N	N	N		LOW	-	Polski dubbing, away missions, tweaki (#193) | krwiste dźwięki (#48)
+code/game/objects/structures/crates_lockers/closets/bodybag.dm	GAMEPLAY	5	0	0	1	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/game/objects/structures/crates_lockers/closets/cardboardbox.dm	GAMEPLAY	5	0	0	1	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/game/objects/structures/crates_lockers/closets/secure/freezer.dm	GAMEPLAY	2	0	0	0	N	N	N		LOW	-	ser (#202)
+code/game/objects/structures/crates_lockers/closets/secure/security.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	Dodaje wybuchowy implant który reaguje na eksplozj
+code/game/objects/structures/flora.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	Machanie przedmiotami i jakieś inne bajery (#235)
+code/game/objects/structures/ghost_role_spawners.dm	GAMEPLAY	24	0	0	0	N	N	N		LOW	-	Dodaje ghost role do gulagu i guzik na ghost role 
+code/game/objects/structures/statues.dm	GAMEPLAY	23	0	0	0	N	N	N		LOW	-	ser (#202)
+code/game/objects/structures/watercloset.dm	MIXED	8	1	1	2	N	N	N		LOW	C	Qłikfiks (#292)
+code/game/sound.dm	GAMEPLAY	51	5	0	5	N	N	N		LOW	-	Dzwieki rozmow [PORT 498] (#36) | Jukebox [Port 789] (#28)
+code/game/turfs/closed/wall/misc_walls.dm	GAMEPLAY	3	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/game/turfs/closed/wall/reinf_walls.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/game/turfs/closed/walls.dm	GAMEPLAY	2	2	0	1	N	N	N		LOW	-	Heretycy z bee (#90) | reszta tłumaczeń i idk co jeszcze (#59)
+code/game/turfs/open/floor/plasteel_floor.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/game/turfs/turf.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/admin/IsBanned.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	C	Polski dubbing, away missions, tweaki (#193) | Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/admin/admin.dm	GAMEPLAY	18	0	0	4	N	N	N		LOW	-	Reload Whitelist Verb (#86) | mutation toxin + joker rozdaje metacoinsy (#55)
+code/modules/admin/admin_verbs.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	Reload Whitelist Verb (#86)
+code/modules/admin/topic.dm	GAMEPLAY	10	0	0	2	N	N	N		LOW	-	mutation toxin + joker rozdaje metacoinsy (#55)
+code/modules/admin/verbs/one_click_antag.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/admin/verbs/pray.dm	GAMEPLAY	8	0	0	1	N	N	N		LOW	-	ERT na zawołanie załogi - mniej więcej (#286)
+code/modules/antagonists/_common/antag_datum.dm	GAMEPLAY	36	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/_common/antag_spawner.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tłumaczy bełkot naukowców + imiona (#58)
+code/modules/antagonists/blob/blob.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	C	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blob_mobs.dm	MIXED	9	9	5	0	N	N	N		LOW	B/C	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/_blobstrain.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/blazing_oil.dm	LOCALIZATION	7	7	7	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/cryogenic_poison.dm	MIXED	7	7	4	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/electromagnetic_web.dm	LOCALIZATION	5	5	4	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/energized_jelly.dm	LOCALIZATION	5	5	4	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/explosive_lattice.dm	LOCALIZATION	5	5	4	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/networked_fibers.dm	LOCALIZATION	6	6	6	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/pressurized_slime.dm	LOCALIZATION	7	7	6	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/reactive_spines.dm	LOCALIZATION	5	5	5	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/regenerative_materia.dm	LOCALIZATION	3	3	2	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/replicating_foam.dm	LOCALIZATION	6	6	6	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/shifting_fragments.dm	LOCALIZATION	5	5	4	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/synchronous_mesh.dm	LOCALIZATION	5	5	4	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/blobstrains/zombifying_pods.dm	LOCALIZATION	6	6	6	0	N	N	N		LOW	B	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/overmind.dm	LOCALIZATION	19	19	12	0	N	N	N		LOW	C	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/powers.dm	LOCALIZATION	79	79	67	0	N	N	N		LOW	C	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/structures/_blob.dm	MIXED	22	22	12	0	N	N	N		LOW	C	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/structures/core.dm	LOCALIZATION	3	3	3	0	N	N	N		LOW	B/C	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/structures/factory.dm	LOCALIZATION	5	5	3	0	N	N	N		LOW	C	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/structures/node.dm	LOCALIZATION	3	3	3	0	N	N	N		LOW	B/C	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/structures/resource.dm	LOCALIZATION	3	3	2	0	N	N	N		LOW	C	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/blob/structures/shield.dm	LOCALIZATION	7	7	6	0	N	N	N		LOW	B/C	Tłumaczenie Bloba oraz resprite (#198)
+code/modules/antagonists/cult/blood_magic.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/antagonists/cult/runes.dm	GAMEPLAY	5	2	0	1	N	N	N		LOW	-	Requested feature (#287) | Heretycy z bee (#90)
+code/modules/antagonists/devil/sintouched/sintouched.dm	GAMEPLAY	6	2	0	3	N	N	N		LOW	-	Guzik na seks (#84)
+code/modules/antagonists/disease/disease_abilities.dm	GAMEPLAY	0	444	0	0	N	N	N		LOW	-	
+code/modules/antagonists/eldritch_cult/eldritch_antag.dm	GAMEPLAY	0	290	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/eldritch_cult/eldritch_book.dm	GAMEPLAY	0	125	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/eldritch_cult/eldritch_effects.dm	GAMEPLAY	0	245	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/eldritch_cult/eldritch_items.dm	GAMEPLAY	0	291	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/eldritch_cult/eldritch_knowledge.dm	GAMEPLAY	0	495	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/eldritch_cult/eldritch_magic.dm	GAMEPLAY	0	708	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/eldritch_cult/eldritch_monster_antag.dm	GAMEPLAY	0	45	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/eldritch_cult/knowledge/ash_lore.dm	GAMEPLAY	0	140	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/eldritch_cult/knowledge/flesh_lore.dm	GAMEPLAY	0	226	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/eldritch_cult/knowledge/rust_lore.dm	GAMEPLAY	0	200	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/ert/ert.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tłumaczy bełkot naukowców + imiona (#58)
+code/modules/antagonists/heretic/heretic_antag.dm	GAMEPLAY	772	0	0	0	N	N	N		LOW	-	przywraca brakujący przycisk heretykom (#175) | Heretycy z bee (#90)
+code/modules/antagonists/heretic/heretic_focus.dm	GAMEPLAY	61	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/heretic_knowledge.dm	GAMEPLAY	467	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/heretic_living_heart.dm	GAMEPLAY	182	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/heretic_monsters.dm	GAMEPLAY	60	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/influences.dm	GAMEPLAY	335	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/items/crucifix.dm	GAMEPLAY	22	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/items/eldritch_flask.dm	GAMEPLAY	8	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/items/forbidden_book.dm	GAMEPLAY	59	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/items/heretic_armor.dm	GAMEPLAY	108	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/items/heretic_blades.dm	GAMEPLAY	88	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/items/heretic_necks.dm	GAMEPLAY	50	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/items/madness_mask.dm	GAMEPLAY	74	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/ash_lore.dm	GAMEPLAY	258	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/flesh_lore.dm	GAMEPLAY	362	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/general_side.dm	GAMEPLAY	55	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/rust_lore.dm	GAMEPLAY	399	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/sacrifice_knowledge/sacrifice_buff.dm	GAMEPLAY	88	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/sacrifice_knowledge/sacrifice_knowledge.dm	GAMEPLAY	476	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/sacrifice_knowledge/sacrifice_map.dm	GAMEPLAY	116	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/sacrifice_knowledge/sacrifice_moodlets.dm	GAMEPLAY	15	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/side_ash_flesh.dm	GAMEPLAY	84	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/side_flesh_void.dm	GAMEPLAY	53	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/side_rust_ash.dm	GAMEPLAY	61	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/side_void_rust.dm	GAMEPLAY	64	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/starting_lore.dm	GAMEPLAY	156	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/knowledge/void_lore.dm	GAMEPLAY	314	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/aggressive_spread.dm	GAMEPLAY	27	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/ash_ascension.dm	GAMEPLAY	144	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/ash_jaunt.dm	GAMEPLAY	30	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/blood_cleave.dm	GAMEPLAY	59	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/blood_siphon.dm	GAMEPLAY	48	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/eldritch_blind.dm	GAMEPLAY	5	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/eldritch_emplosion.dm	GAMEPLAY	13	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/eldritch_shapeshift.dm	GAMEPLAY	14	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/eldritch_telepathy.dm	GAMEPLAY	6	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/flesh_ascension.dm	GAMEPLAY	66	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/madness_touch.dm	GAMEPLAY	32	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/manse_link.dm	GAMEPLAY	71	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/mansus_grasp.dm	GAMEPLAY	113	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/nightwatcher_rebirth.dm	GAMEPLAY	40	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/rust_wave.dm	GAMEPLAY	111	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/void_phase.dm	GAMEPLAY	58	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/magic/void_pull.dm	GAMEPLAY	31	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/rust_effect.dm	GAMEPLAY	13	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/structures/carving_knife.dm	GAMEPLAY	245	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/structures/mawed_crucible.dm	GAMEPLAY	266	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/heretic/transmutation_rune.dm	GAMEPLAY	185	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/antagonists/hivemind/hivemind.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	Dodaje potrzebe picia do gry (#215)
+code/modules/antagonists/nukeop/equipment/nuclear_challenge.dm	MIXED	26	16	6	2	N	N	N		LOW	C	łorops rikłajed (#271) | Warops bez ograniczeń (#222)
+code/modules/antagonists/nukeop/nukeop.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tłumaczy bełkot naukowców + imiona (#58)
+code/modules/antagonists/official/official.dm	LOCALIZATION	3	3	3	0	N	N	N		LOW	C	tłumaczenia część kolejna [PORT 1062] (#42)
+code/modules/antagonists/space_dragon/carp_rift.dm	GAMEPLAY	237	0	0	0	N	N	N		LOW	-	Space Dragon Rework (#238)
+code/modules/antagonists/space_dragon/space_dragon.dm	GAMEPLAY	247	23	0	0	N	N	N		LOW	-	Space Dragon Rework (#238)
+code/modules/antagonists/traitor/equipment/Malf_Modules.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	 Wincyj dźwięków #562 (#19)
+code/modules/assembly/mousetrap.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	szczury (#195)
+code/modules/atmospherics/machinery/components/unary_devices/cryo.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/awaymissions/zlevel.dm	GAMEPLAY	1	2	0	0	N	N	N		LOW	-	gejtłej is fiks (#85)
+code/modules/cargo/bounties/chef.dm	GAMEPLAY	6	0	0	0	N	N	N		LOW	-	ser (#202)
+code/modules/cargo/exports.dm	GAMEPLAY	7	0	0	2	N	N	N		LOW	-	bateria eksportowa (#192)
+code/modules/cargo/orderconsole.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+code/modules/cargo/packs.dm	GAMEPLAY	18	2	0	1	N	N	N		LOW	-	Nie będziesz mi mówić jak żyć (#254) | ser (#202)
+code/modules/client/preferences2/character_save.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tłumaczy bełkot naukowców + imiona (#58)
+code/modules/client/preferences_toggles.dm	LOCALIZATION	41	41	40	0	N	N	N		LOW	C	tłumaczenia część kolejna [PORT 1062] (#42)
+code/modules/client/verbs/input_box.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	Dżokerowskie tłiki (#105)
+code/modules/client/verbs/ooc.dm	MIXED	18	0	2	1	N	N	N		LOW	C	Revert "Replay" (#308) | Replay (#205)
+code/modules/clothing/chameleon.dm	GAMEPLAY	14	1	0	0	N	N	N		LOW	-	Infiltratorzy  (#296)
+code/modules/clothing/clothing.dm	GAMEPLAY	3	1	0	0	N	N	N		LOW	-	Revert "Replay" (#308) | Replay (#205)
+code/modules/clothing/glasses/_glasses.dm	GAMEPLAY	6	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/clothing/gloves/color.dm	GAMEPLAY	7	2	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/clothing/head/_head.dm	GAMEPLAY	11	8	0	1	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/clothing/masks/_masks.dm	GAMEPLAY	12	7	0	1	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/clothing/masks/hailer.dm	LOCALIZATION	19	19	15	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+code/modules/clothing/shoes/_shoes.dm	GAMEPLAY	2	2	0	2	N	N	N		LOW	-	Requested feature (#287)
+code/modules/clothing/spacesuits/hardsuit.dm	GAMEPLAY	2	2	0	2	N	N	N		LOW	-	HEV suit, Plakaty port #404 #399 (#6)
+code/modules/clothing/suits/toggles.dm	GAMEPLAY	35	21	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/clothing/under/_under.dm	GAMEPLAY	11	6	0	1	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/crew_objectives/_crew_objectives.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	C	Cele załogi - tłumaczenie [Port 540] (#66)
+code/modules/crew_objectives/cargo_objectives.dm	LOCALIZATION	4	4	4	0	N	N	N		LOW	C	Cele załogi - tłumaczenie [Port 540] (#66)
+code/modules/crew_objectives/civilian_objectives.dm	LOCALIZATION	15	15	15	0	N	N	N		LOW	C	Cele załogi - tłumaczenie [Port 540] (#66)
+code/modules/crew_objectives/command_objectives.dm	LOCALIZATION	4	4	3	0	N	N	N		LOW	B	Cele załogi - tłumaczenie [Port 540] (#66)
+code/modules/crew_objectives/engineering_objectives.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	C	Cele załogi - tłumaczenie [Port 540] (#66)
+code/modules/crew_objectives/medical_objectives.dm	LOCALIZATION	5	5	4	0	N	N	N		LOW	B/C	Cele załogi - tłumaczenie [Port 540] (#66)
+code/modules/crew_objectives/science_objectives.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Cele załogi - tłumaczenie [Port 540] (#66)
+code/modules/crew_objectives/security_objectives.dm	LOCALIZATION	5	5	4	0	N	N	N		LOW	B	Cele załogi - tłumaczenie [Port 540] (#66)
+code/modules/economy/account.dm	LOCALIZATION	3	3	3	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+code/modules/events/abductor.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/alien_infestation.dm	MIXED	3	3	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/anomaly.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/anomaly_bluespace.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/anomaly_delimber.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/anomaly_flux.dm	MIXED	3	3	1	0	N	N	N		LOW	C	zmiany z dotychczasowych gier (#79) | Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/anomaly_grav.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/anomaly_hallucination.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/anomaly_pyro.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/anomaly_vortex.dm	MIXED	3	3	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/asteroid_impact.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/aurora_caelus.dm	LOCALIZATION	3	3	2	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/beer_clog.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	zmiany z dotychczasowych gier (#79)
+code/modules/events/blob.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/brain_trauma.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	zmiany z dotychczasowych gier (#79) | Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/brand_intelligence.dm	LOCALIZATION	9	9	6	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/bureaucratic_error.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/camerafailure.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/carp_migration.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/communications_blackout.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/creep_awakening.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/devil.dm	GAMEPLAY	3	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/disease_outbreak.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/dolphin_migration.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/dust.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/electrical_storm.dm	MIXED	3	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/false_alarm.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/floorcluwne.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/fugitive_spawning.dm	GAMEPLAY	3	2	0	0	N	N	N		LOW	-	zmiany z dotychczasowych gier (#79) | Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/grid_check.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/heart_attack.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/high_priority_bounty.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/immovable_rod.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/ion_storm.dm	LOCALIZATION	27	27	26	0	N	N	N		LOW	C	Update ion_storm.dm (#83) | Pakiet tłumaczeń (#73)
+code/modules/events/major_dust.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/meateor_wave.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/meteor_wave.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/mice_migration.dm	MIXED	13	12	7	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/nightmare.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/pirates.dm	LOCALIZATION	8	8	6	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/plasma_decon.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/portal_storm.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	Polski dubbing, away missions, tweaki (#193) | Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/prison_break.dm	MIXED	3	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/processor_overload.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/radiation_storm.dm	MIXED	2	1	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/shuttle_loan.dm	LOCALIZATION	20	20	19	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+code/modules/events/space_dragon.dm	MIXED	24	25	1	0	N	N	N		LOW	C	Space Dragon Rework (#238) | Polski dubbing, away missions, tweaki (#193)
+code/modules/events/spider_infestation.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/supermatter_surge.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/wormholes.dm	MIXED	3	3	1	0	N	N	N		LOW	C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/events/zombie_outbreak.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/flufftext/Hallucination.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	głos dla Beepskyego, port #736 (#12)
+code/modules/food_and_drinks/drinks/drinks.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	Dźwięk nalewania płynu do szklanki [Port 97] (#27)
+code/modules/food_and_drinks/food/condiment.dm	GAMEPLAY	36	0	0	0	N	N	N		LOW	-	ser (#202)
+code/modules/food_and_drinks/food/customizables.dm	GAMEPLAY	10	0	0	0	N	N	N		LOW	-	ser (#202)
+code/modules/food_and_drinks/food/snacks.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/modules/food_and_drinks/food/snacks_cheese.dm	GAMEPLAY	334	0	0	0	N	N	N		LOW	-	ser (#202)
+code/modules/food_and_drinks/food/snacks_meat.dm	GAMEPLAY	24	0	0	0	N	N	N		LOW	-	ser (#202)
+code/modules/food_and_drinks/food/snacks_other.dm	GAMEPLAY	1	21	0	0	N	N	N		LOW	-	ser (#202)
+code/modules/food_and_drinks/food/snacks_pastry.dm	LOCALIZATION	37	36	33	2	N	N	N		LOW	B	pierogi, lasery, nauka, port #347 (#31)
+code/modules/food_and_drinks/kitchen_machinery/processor.dm	GAMEPLAY	1	0	0	1	Y	Y	N	1	MEDIUM(both sides changed)	-	krwiste dźwięki (#48)
+code/modules/food_and_drinks/recipes/food_mixtures.dm	GAMEPLAY	172	11	0	0	N	N	N		LOW	-	ser (#202)
+code/modules/food_and_drinks/recipes/processor_recipes.dm	GAMEPLAY	36	0	0	0	N	N	N		LOW	-	ser (#202)
+code/modules/food_and_drinks/recipes/tablecraft/recipes_misc.dm	GAMEPLAY	11	0	0	0	N	N	N		LOW	-	ser (#202)
+code/modules/guardian/abilities/major/predator.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/hydroponics/grown/citrus.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Richer Juice Trait (#234)
+code/modules/hydroponics/hydroponics.dm	GAMEPLAY	2	0	0	2	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/modules/hydroponics/plant_genes.dm	GAMEPLAY	15	0	0	2	N	N	N		LOW	-	Richer Juice Trait (#234)
+code/modules/hydroponics/seeds.dm	GAMEPLAY	7	2	0	0	N	N	N		LOW	-	Richer Juice Trait (#234)
+code/modules/jobs/job_types/ai.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/assistant.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/atmospheric_technician.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/botanist.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/brig_physician.dm	GAMEPLAY	4	1	0	1	N	N	N		LOW	-	tweaks (#305) | half lajf dosłownie [port 509] (#22)
+code/modules/jobs/job_types/captain.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/chemist.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/chief_engineer.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/chief_medical_officer.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/cook.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/cyborg.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/deputy.dm	GAMEPLAY	3	3	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/detective.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/geneticist.dm	GAMEPLAY	4	4	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/head_of_personnel.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/head_of_security.dm	GAMEPLAY	4	5	0	1	N	N	N		LOW	-	tweaks (#305) | Tonfa milicyjna (#267)
+code/modules/jobs/job_types/janitor.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/lawyer.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/medical_doctor.dm	GAMEPLAY	3	3	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/paramedic.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/quartermaster.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/research_director.dm	GAMEPLAY	5	4	0	3	N	N	N		LOW	-	tweaks (#305) | dodanie kostiumow, qol modularyzacji, ikony error 
+code/modules/jobs/job_types/roboticist.dm	GAMEPLAY	3	3	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/scientist.dm	GAMEPLAY	5	4	0	3	N	N	N		LOW	-	tweaks (#305) | dodanie kostiumow, qol modularyzacji, ikony error 
+code/modules/jobs/job_types/security_officer.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	half lajf dosłownie [port 509] (#22)
+code/modules/jobs/job_types/shaft_miner.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/station_engineer.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/virologist.dm	GAMEPLAY	3	3	0	0	N	N	N		LOW	-	tweaks (#305)
+code/modules/jobs/job_types/warden.dm	GAMEPLAY	7	4	0	1	N	N	N		LOW	-	tweaks (#305) | Tonfa milicyjna (#267)
+code/modules/jobs/jobs.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Dodaje ghost role do gulagu i guzik na ghost role 
+code/modules/language/language.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tłumaczy bełkot naukowców + imiona (#58)
+code/modules/language/language_holder.dm	GAMEPLAY	5	0	0	1	N	N	N		LOW	-	szczury (#195)
+code/modules/library/lib_items.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/library/lib_machines.dm	GAMEPLAY	1	1	0	0	Y	Y	N	1	MEDIUM(both sides changed)	-	Heretycy z bee (#90)
+code/modules/mapping/random_rooms.dm	GAMEPLAY	154	0	0	1	N	N	N		LOW	-	[Atlas] Losowe silniki - Rework Inżynierii, Atmosf | Nowe random mainty z Bee (#232)
+code/modules/mining/machine_redemption.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	Ambiencja [port 605] (#34)
+code/modules/mining/machine_vending.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Cargo skrzynki (#69)
+code/modules/mob/camera/camera.dm	GAMEPLAY	1	1	0	1	Y	Y	N	1	MEDIUM(both sides changed)	-	takie kibajndy do emotek [port 674] (#24)
+code/modules/mob/dead/new_player/new_player.dm	MIXED	21	21	10	0	N	N	N		LOW	C	Update new_player.dm (#47) | tłumaczenia część kolejna [PORT 1062] (#42)
+code/modules/mob/dead/observer/observer.dm	GAMEPLAY	2	1	0	1	N	N	N		LOW	-	szczury (#195)
+code/modules/mob/dead/observer/orbit.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/mob/emote.dm	GAMEPLAY	11	4	0	2	N	N	N		LOW	-	takie kibajndy do emotek [port 674] (#24)
+code/modules/mob/inventory.dm	GAMEPLAY	8	1	0	0	N	N	N		LOW	-	Machanie przedmiotami i jakieś inne bajery (#235)
+code/modules/mob/living/blood.dm	GAMEPLAY	20	20	0	3	N	N	N		LOW	-	Dodaje potrzebe picia do gry (#215) | Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/mob/living/brain/brain_item.dm	GAMEPLAY	4	2	0	0	N	N	N		LOW	-	Cortex folding (#244)
+code/modules/mob/living/carbon/carbon.dm	GAMEPLAY	23	3	0	1	Y	Y	N	2	MEDIUM(both sides changed)	-	Machanie przedmiotami i jakieś inne bajery (#235) | Heretycy z bee (#90)
+code/modules/mob/living/carbon/carbon_movement.dm	GAMEPLAY	4	0	0	1	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/modules/mob/living/carbon/emote.dm	MIXED	14	14	5	0	N	N	N		LOW	B	Tlumaczenia (#261)
+code/modules/mob/living/carbon/human/emote.dm	MIXED	28	27	13	3	Y	Y	N	1	MEDIUM(both sides changed)	B	Tlumaczenia (#261) | Ethereal krzyczy (#246)
+code/modules/mob/living/carbon/human/examine.dm	MIXED	22	14	1	1	N	N	N		LOW	A	jajoskręt (#165) | Heretycy z bee (#90)
+code/modules/mob/living/carbon/human/human.dm	GAMEPLAY	9	1	0	3	N	N	N		LOW	-	gatunki (#250) | ser (#202)
+code/modules/mob/living/carbon/human/human_defense.dm	GAMEPLAY	2	0	0	1	N	N	N		LOW	-	Vampires (#284)
+code/modules/mob/living/carbon/human/human_defines.dm	GAMEPLAY	2	0	0	1	Y	Y	N	1	MEDIUM(both sides changed)	-	jajoskręt (#165)
+code/modules/mob/living/carbon/human/human_helpers.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/mob/living/carbon/human/physiology.dm	GAMEPLAY	2	0	0	0	N	N	N		LOW	-	Requested feature (#287) | Dodaje potrzebe picia do gry (#215)
+code/modules/mob/living/carbon/human/species.dm	MIXED	86	4	3	11	N	N	N		LOW	C	Requested feature (#287) | Dodaje potrzebe picia do gry (#215)
+code/modules/mob/living/carbon/human/species_types/IPC.dm	MIXED	8	6	1	2	N	N	N		LOW	A	Qłikfiks (#292) | quickfix picia dla ipc, ethereal i zombie (#289)
+code/modules/mob/living/carbon/human/species_types/abductors.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Dodaje potrzebe picia do gry (#215)
+code/modules/mob/living/carbon/human/species_types/android.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	Requested feature (#287) | Dodaje potrzebe picia do gry (#215)
+code/modules/mob/living/carbon/human/species_types/dullahan.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Dodaje potrzebe picia do gry (#215)
+code/modules/mob/living/carbon/human/species_types/ethereal.dm	BUGFIX	1	1	0	1	N	N	N		LOW	-	Requested feature (#287) | quickfix picia dla ipc, ethereal i zombie (#289)
+code/modules/mob/living/carbon/human/species_types/golems.dm	GAMEPLAY	33	1	0	0	N	N	N		LOW	-	ser (#202) | tłumaczy bełkot naukowców + imiona (#58)
+code/modules/mob/living/carbon/human/species_types/plasmamen.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Requested feature (#287) | Dodaje potrzebe picia do gry (#215)
+code/modules/mob/living/carbon/human/species_types/skeletons.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Qłikfiks (#292) | Dodaje potrzebe picia do gry (#215)
+code/modules/mob/living/carbon/human/species_types/supersoldier.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Requested feature (#287) | Dodaje potrzebe picia do gry (#215)
+code/modules/mob/living/carbon/human/species_types/zombies.dm	BUGFIX	1	1	0	0	N	N	N		LOW	-	Qłikfiks (#292) | quickfix picia dla ipc, ethereal i zombie (#289)
+code/modules/mob/living/carbon/life.dm	LOCALIZATION	13	12	13	0	N	N	N		LOW	C	tłumaczy bełkot naukowców + imiona (#58)
+code/modules/mob/living/carbon/monkey/monkey.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Dodaje potrzebe picia do gry (#215)
+code/modules/mob/living/emote.dm	LOCALIZATION	106	106	75	0	N	N	N		LOW	B/C	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/mob/living/life.dm	GAMEPLAY	2	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/mob/living/living.dm	GAMEPLAY	47	3	0	0	N	N	N		LOW	-	Heretycy z bee (#90) | Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/mob/living/say.dm	MIXED	11	0	1	3	N	N	N		LOW	C	joker rozdaje drain bamage (#60)
+code/modules/mob/living/silicon/robot/emote.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/modules/mob/living/silicon/robot/robot.dm	GAMEPLAY	5	4	0	5	N	N	N		LOW	-	borgi do wyboru do koloru (#80) | krwiste dźwięki (#48)
+code/modules/mob/living/silicon/robot/robot_modules.dm	GAMEPLAY	29	0	0	6	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/mob/living/silicon/silicon.dm	GAMEPLAY	2	1	0	1	N	N	N		LOW	-	Heretycy z bee (#90) | Aktualizacja do NSV13 (#68)
+code/modules/mob/living/simple_animal/bot/SuperBeepsky.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	głos dla Beepskyego, port #736 (#12)
+code/modules/mob/living/simple_animal/bot/bot.dm	LOCALIZATION	7	6	5	0	N	N	N		LOW	C	Heretycy z bee (#90) | reszta tłumaczeń i idk co jeszcze (#59)
+code/modules/mob/living/simple_animal/bot/cleanbot.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/mob/living/simple_animal/bot/medbot.dm	LOCALIZATION	6	6	4	5	N	N	N		LOW	C	Polski dubbing, away missions, tweaki (#193) | Polskie elementy gry [Port 349] (#29)
+code/modules/mob/living/simple_animal/bot/secbot.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	głos dla Beepskyego, port #736 (#12)
+code/modules/mob/living/simple_animal/eldritch_demons.dm	GAMEPLAY	0	374	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/mob/living/simple_animal/friendly/cat.dm	GAMEPLAY	3	1	0	3	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/modules/mob/living/simple_animal/friendly/dog.dm	MIXED	4	1	1	2	N	N	N		LOW	C	Pakiet tłumaczeń (#73) | krwiste dźwięki (#48)
+code/modules/mob/living/simple_animal/friendly/drone/_drone.dm	LOCALIZATION	14	14	13	0	N	N	N		LOW	B	kremdki :100: [PORT 405] (#43)
+code/modules/mob/living/simple_animal/friendly/drone/drones_as_items.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	kremdki :100: [PORT 405] (#43)
+code/modules/mob/living/simple_animal/friendly/drone/extra_drone_types.dm	MIXED	11	11	4	0	N	N	N		LOW	C	kremdki :100: [PORT 405] (#43)
+code/modules/mob/living/simple_animal/friendly/farm_animals.dm	GAMEPLAY	95	3	0	0	N	N	N		LOW	-	ser (#202)
+code/modules/mob/living/simple_animal/friendly/mouse.dm	GAMEPLAY	18	4	0	6	N	N	N		LOW	-	szczury (#195)
+code/modules/mob/living/simple_animal/heretic_monsters.dm	GAMEPLAY	443	0	0	0	N	N	N		LOW	-	Infiltratorzy  (#296) | Heretycy z bee (#90)
+code/modules/mob/living/simple_animal/hostile/alien.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	Gaz BZ i tweaki (#196)
+code/modules/mob/living/simple_animal/hostile/carp.dm	GAMEPLAY	9	0	0	0	N	N	N		LOW	-	Space Dragon Rework (#238)
+code/modules/mob/living/simple_animal/hostile/megafauna/bubblegum.dm	GAMEPLAY	4	0	0	4	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/mob/living/simple_animal/hostile/megafauna/drake.dm	GAMEPLAY	0	71	0	0	N	N	N		LOW	-	Space Dragon Rework (#238)
+code/modules/mob/living/simple_animal/hostile/netherworld.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	głos dla Beepskyego, port #736 (#12)
+code/modules/mob/living/simple_animal/hostile/retaliate/ghost.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tłumaczy bełkot naukowców + imiona (#58)
+code/modules/mob/living/simple_animal/hostile/space_dragon.dm	GAMEPLAY	452	0	0	0	N	N	N		LOW	-	Space Dragon Rework (#238)
+code/modules/mob/living/simple_animal/parrot.dm	LOCALIZATION	52	52	37	0	N	N	N		LOW	C	Tlumaczenia (#261)
+code/modules/mob/mob.dm	GAMEPLAY	2	2	0	2	N	N	N		LOW	-	 Port dymków 'Pointing at something on yourself no
+code/modules/mob/mob_helpers.dm	GAMEPLAY	7	0	0	2	N	N	N		LOW	-	Więcej możliwości dla duchów oraz więcej !!FUN!! w
+code/modules/modular_computers/computers/item/role_tablet_presets.dm	LOCALIZATION	4	4	4	0	N	N	N		LOW	B	tłumaczenia część kolejna [PORT 1062] (#42)
+code/modules/power/generator.dm	GAMEPLAY	2	0	0	2	N	N	N		LOW	-	Ambiencja [port 605] (#34)
+code/modules/power/rtg.dm	GAMEPLAY	22	3	0	3	N	N	N		LOW	-	RTG do kupna (#239)
+code/modules/power/singularity/particle_accelerator/particle_control.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	ścisza PA (#203) | Ambiencja [port 605] (#34)
+code/modules/projectiles/boxes_magazines/external/rifle.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Podmiana Ikon broni NSV (#94)
+code/modules/projectiles/guns/ballistic/automatic.dm	GAMEPLAY	2	1	0	2	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/modules/projectiles/guns/energy/laser.dm	LOCALIZATION	5	1	3	5	Y	Y	N	4	MEDIUM(both sides changed)	A	spowolnienie lasera (#98)
+code/modules/projectiles/projectile/beams.dm	GAMEPLAY	9	1	0	9	N	N	N		LOW	-	Naprawa błędu wizualnego emittera (#299) | pierogi, lasery, nauka, port #347 (#31)
+code/modules/projectiles/projectile/bullets.dm	GAMEPLAY	10	0	0	0	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/modules/projectiles/projectile/energy/stun.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	reszta tłumaczeń i idk co jeszcze (#59)
+code/modules/projectiles/projectile/special/curse.dm	GAMEPLAY	36	7	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/projectiles/projectile/special/hallucination.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	reszta tłumaczeń i idk co jeszcze (#59)
+code/modules/reagents/chemistry/machinery/chem_dispenser.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	krwiste dźwięki (#48)
+code/modules/reagents/chemistry/machinery/pandemic.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Implementacja spriteów z Aquilla oraz Discord (#25
+code/modules/reagents/chemistry/machinery/smoke_machine.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	dodano dźwięki takie fajne tu i tam (#177)
+code/modules/reagents/chemistry/reagents/alcohol_reagents.dm	GAMEPLAY	6	0	0	3	N	N	N		LOW	-	Dodaje potrzebe picia do gry (#215)
+code/modules/reagents/chemistry/reagents/drink_reagents.dm	GAMEPLAY	131	0	0	1	N	N	N		LOW	-	Implementacja spriteów z Aquilla oraz Discord (#25 | Dodaje potrzebe picia do gry (#215)
+code/modules/reagents/chemistry/reagents/food_reagents.dm	GAMEPLAY	46	0	0	1	N	N	N		LOW	-	Dodaje potrzebe picia do gry (#215) | ser (#202)
+code/modules/reagents/chemistry/reagents/other_reagents.dm	GAMEPLAY	102	3	0	0	N	N	N		LOW	-	Vampires (#284) | Dodaje potrzebe picia do gry (#215)
+code/modules/reagents/reagent_containers/glass.dm	GAMEPLAY	1	0	0	1	N	N	N		LOW	-	dodano dźwięki takie fajne tu i tam (#177)
+code/modules/reagents/reagent_containers/pill.dm	GAMEPLAY	3	3	0	2	N	N	N		LOW	-	zmiany dot. floorpills (#251)
+code/modules/requests/request.dm	GAMEPLAY	10	0	0	3	N	N	N		LOW	-	ERT na zawołanie załogi - mniej więcej (#286) | zmiany dotyczące hajsu oraz kodów nuklearnych (#93
+code/modules/requests/request_manager.dm	GAMEPLAY	3	0	0	0	N	N	N		LOW	-	ERT na zawołanie załogi - mniej więcej (#286)
+code/modules/research/designs/medical_designs.dm	GAMEPLAY	37	0	0	0	N	N	N		LOW	-	Cortex folding (#244) | Gastroctomy (#243)
+code/modules/research/machinery/_production.dm	MIXED	3	1	1	2	N	N	N		LOW	C	Pakiet tłumaczeń (#73) | Ambiencja [port 605] (#34)
+code/modules/research/nanites/nanite_programs.dm	GAMEPLAY	2	2	0	2	N	N	N		LOW	-	 Nanity 2.0 #754 (#18)
+code/modules/research/nanites/nanite_programs/utility.dm	GAMEPLAY	2	2	0	2	N	N	N		LOW	-	 Nanity 2.0 #754 (#18)
+code/modules/research/techweb/all_nodes.dm	GAMEPLAY	11	10	0	6	N	N	N		LOW	-	Cortex folding (#244) | Gastroctomy (#243)
+code/modules/research/xenobiology/crossbreeding/_clothing.dm	GAMEPLAY	9	3	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/research/xenobiology/crossbreeding/_structures.dm	GAMEPLAY	1	1	0	0	Y	Y	N	1	MEDIUM(both sides changed)	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/research/xenobiology/xenobiology.dm	GAMEPLAY	22	0	0	0	N	N	N		LOW	-	Plort Machine (#224)
+code/modules/ruins/lavaland_ruin_code.dm	GAMEPLAY	2	1	0	0	N	N	N		LOW	-	ser (#202)
+code/modules/security_levels/security_levels.dm	GAMEPLAY	2	2	0	2	Y	Y	N	3	MEDIUM(both sides changed)	-	dodano dźwięki takie fajne tu i tam (#177)
+code/modules/shuttle/emergency.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+code/modules/shuttle/syndicate.dm	MIXED	8	2	2	2	N	N	N		LOW	C	łorops rikłajed (#271)
+code/modules/spells/spell.dm	GAMEPLAY	4	1	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/spells/spell_types/devil.dm	GAMEPLAY	3	1	0	2	N	N	N		LOW	-	Guzik na seks (#84)
+code/modules/spells/spell_types/godhand.dm	GAMEPLAY	19	8	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/spells/spell_types/voice_of_god.dm	GAMEPLAY	3	3	0	1	N	N	N		LOW	-	Dzwieki rozmow [PORT 498] (#36)
+code/modules/station_goals/bsa.dm	GAMEPLAY	6	2	0	0	N	N	N		LOW	-	zmienia domyślne bezużyteczne BSA na BSA jako broń
+code/modules/surgery/advanced/bioware/bioware.dm	GAMEPLAY	7	4	0	0	N	N	N		LOW	-	Cortex folding (#244)
+code/modules/surgery/advanced/bioware/cortex_folding.dm	GAMEPLAY	74	0	0	0	N	N	N		LOW	-	Cortex folding (#244)
+code/modules/surgery/advanced/bioware/cortex_imprint.dm	GAMEPLAY	70	0	0	0	N	N	N		LOW	-	Cortex folding (#244)
+code/modules/surgery/advanced/lobotomy.dm	GAMEPLAY	9	3	0	0	N	N	N		LOW	-	Cortex folding (#244)
+code/modules/surgery/gastrectomy.dm	GAMEPLAY	47	0	0	0	N	N	N		LOW	-	Gastroctomy (#243)
+code/modules/surgery/organs/stomach.dm	GAMEPLAY	27	0	0	0	N	N	N		LOW	-	Gastroctomy (#243)
+code/modules/surgery/organs/tongue.dm	MIXED	20	18	8	2	N	N	N		LOW	B	reszta tłumaczeń i idk co jeszcze (#59) | Dzwieki rozmow [PORT 498] (#36)
+code/modules/tgs/v5/undefs.dm	GAMEPLAY	1	0	0	0	Y	Y	N	1,3	MEDIUM(both sides changed)	-	Aktualizacja do NSV13 (#68)
+code/modules/tgui/status_composers.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+code/modules/unit_tests/_unit_tests.dm	GAMEPLAY	2	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/unit_tests/heretic_knowledge.dm	GAMEPLAY	46	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/unit_tests/heretic_rituals.dm	GAMEPLAY	116	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+code/modules/vending/_vending.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+code/modules/vending/autodrobe.dm	MIXED	7	2	2	2	N	N	N		LOW	B	dodanie kostiumow, qol modularyzacji, ikony error  | Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/boozeomat.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	B	Bugfixy & tweaki 29-02-2024 - Unibel (#256) | kremufki, amarena, zoopa romana [port 193] (#23)
+code/modules/vending/cigarette.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/clothesmate.dm	MIXED	9	2	2	4	N	N	N		LOW	B	dodanie kostiumow, qol modularyzacji, ikony error  | Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/coffee.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/cola.dm	LOCALIZATION	2	3	2	0	N	N	N		LOW	B	Bugfixy & tweaki 29-02-2024 - Unibel (#256) | Implementacja spriteów z Aquilla oraz Discord (#25
+code/modules/vending/drinnerware.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/games.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/liberation_toy.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/magivend.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/medical.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/megaseed.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/mining.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/modularpc.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/nutrimax.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/plasmaresearch.dm	GAMEPLAY	3	2	0	2	N	N	N		LOW	-	dodanie kostiumow, qol modularyzacji, ikony error 
+code/modules/vending/security.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/snack.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/sovietsoda.dm	LOCALIZATION	1	1	1	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/sustenance.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/toys.dm	LOCALIZATION	3	3	3	0	N	N	N		LOW	B	Kompilacja dotychczasowych zmian Jokera (bez porto
+code/modules/vending/wardrobes.dm	MIXED	55	37	32	15	N	N	N		LOW	B	Bugfixy & tweaki 29-02-2024 - Unibel (#256) | dodanie kostiumow, qol modularyzacji, ikony error 
+config/admins.txt	CONFIG	2	3	0	0	N	N	N		LOW	n/a	zmiany z dotychczasowych gier (#79)
+config/awaymissionconfig.txt	CONFIG	4	0	0	0	N	N	N		LOW	n/a	Polski dubbing, away missions, tweaki (#193)
+config/config.txt	CONFIG	22	17	0	0	Y	Y	N	4	MEDIUM(both sides changed)	n/a	Revert "Replay" (#308) | Uruchamia tryb admina dla hosta (#241)
+config/game_options.txt	MIXED	128	64	7	0	Y	Y	N	3	MEDIUM(both sides changed)	A	Infiltratorzy  (#296) | Vampires (#284)
+config/jobs.txt	MIXED	50	50	9	0	N	N	N		LOW	A	tweaks (#305) | zmiany z dotychczasowych gier (#79)
+config/maps.txt	CONFIG	34	11	0	0	Y	Y	Y	4	HIGH(textual conflict)	n/a	tweaks (#305) | Polski dubbing, away missions, tweaki (#193)
+config/ranks/corporate.txt	MIXED	38	38	10	0	N	N	N		LOW	A	joker rozdaje drain bamage (#60)
+config/ranks/military.txt	MIXED	38	38	10	0	N	N	N		LOW	A	joker rozdaje drain bamage (#60)
+config/ranks/royal_navy.txt	MIXED	44	44	10	0	N	N	N		LOW	A	joker rozdaje drain bamage (#60)
+config/ranks/sharpe.txt	MIXED	41	41	9	0	N	N	N		LOW	A	joker rozdaje drain bamage (#60)
+config/roleplay_filter.txt	MIXED	32	0	1	0	N	N	N		LOW	A	Polski dubbing, away missions, tweaki (#193) | joker rozdaje drain bamage (#60)
+config/title_screens/images/aqg.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+config/title_screens/images/delaminating_issues.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+config/title_screens/images/extended.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+config/title_screens/images/greytide_worldwide.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+config/title_screens/images/janitor.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+config/title_screens/images/meta_boiz.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+config/title_screens/images/singuloose.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+config/title_screens/images/vaporwave.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+data/replays/__tu pojawia sie replaye__.txt	GAMEPLAY	0	0	0	0	N	N	N		LOW	-	riplay (#218)
+food.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+html/antagtips/blob.html	LOCALIZATION	10	10	10	0	N	N	N		LOW	A	Tłumaczenie Bloba oraz resprite (#198)
+html/antagtips/nukie.html	LOCALIZATION	8	8	8	0	N	N	N		LOW	A	reszta tłumaczeń i idk co jeszcze (#59)
+html/antagtips/traitor.html	LOCALIZATION	10	10	10	0	N	N	N		LOW	A	reszta tłumaczeń i idk co jeszcze (#59)
+html/antagtips/wizard.html	LOCALIZATION	8	7	7	0	N	N	N		LOW	A	reszta tłumaczeń i idk co jeszcze (#59)
+html/antagtips/xeno.html	LOCALIZATION	8	8	8	0	N	N	N		LOW	A	reszta tłumaczeń i idk co jeszcze (#59)
+html/changelog.html	INFRASTRUCTURE	41	0	0	0	Y	Y	N	1,3,4	MEDIUM(both sides changed)	n/a	Aktualizacja do NSV13 (#68)
+html/changelogs/.all_changelog.yml	INFRASTRUCTURE	5	0	0	0	Y	Y	N	1,3,4	MEDIUM(both sides changed)	n/a	Aktualizacja do NSV13 (#68)
+html/img/blobcore.png	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+html/img/blobnode.png	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/effects/96x96.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/effects/blood.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/effects/effects.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/effects/eldritch.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/effects/footprints.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/effects/heretic.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/effects/weather_effects.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/actions/actions_ecult.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/actions/actions_space_dragon.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/ai.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/animal.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/blob.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/clothing/head.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/clothing/suit.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/inhands/64x64_lefthand.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/inhands/64x64_righthand.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/mask.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/neck.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/robots.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/screen_alert.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/screen_elite.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/screen_gen.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/screen_gen_old.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/screen_ghost.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/screen_midnight.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/screen_operative.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/screen_plasmafire.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/screen_retro.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/mob/spacedragon.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/ammo.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/carp_rift.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/chemical.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/clothing/hats.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/clothing/neck.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/clothing/suits.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/drinks.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/eldritch.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/food/cheese.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/heretic.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/machines/stasis.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/stack_objects.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/statue.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+icons/obj/surgery.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13.dme	INFRASTRUCTURE	63	13	0	0	Y	Y	N	1,2,3,4	MEDIUM(both sides changed)	n/a	Cortex folding (#244) | Space Dragon Rework (#238)
+nsv13/code/controllers/subsystem/overmap_mode.dm	LOCALIZATION	13	13	12	0	Y	Y	N	2	MEDIUM(both sides changed)	C	Pakiet tłumaczeń (#73) | Aktualizacja do NSV13 (#68)
+nsv13/code/controllers/subsystem/ranks.dm	LOCALIZATION	3	3	3	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+nsv13/code/datums/starsystem_manager.dm	GAMEPLAY	2	0	0	0	N	N	N		LOW	-	Aktualizacja do NSV13 (#68)
+nsv13/code/game/area/aetherwhisp.dm	MIXED	13	13	4	12	N	N	N		LOW	B	tłumaczenia (#53)
+nsv13/code/game/area/areas.dm	LOCALIZATION	178	178	126	1	N	N	N		LOW	B	tłumaczenia (#53)
+nsv13/code/game/area/boarding_areas.dm	MIXED	7	7	4	7	N	N	N		LOW	B	tłumaczenia (#53)
+nsv13/code/game/area/hammerhead.dm	MIXED	16	16	5	16	N	N	N		LOW	B	tłumaczenia (#53)
+nsv13/code/game/area/hammurabi.dm	MIXED	11	11	5	11	N	N	N		LOW	B	tłumaczenia (#53)
+nsv13/code/game/area/pegasus.dm	LOCALIZATION	10	10	6	10	N	N	N		LOW	B	tłumaczenia (#53)
+nsv13/code/game/gamemodes/overmap/courier.dm	LOCALIZATION	5	5	5	0	N	N	N		LOW	B	Pakiet tłumaczeń (#73)
+nsv13/code/game/gamemodes/overmap/objectives/rubicon.dm	GAMEPLAY	1	0	0	0	N	N	N		LOW	-	Aktualizacja do NSV13 (#68)
+nsv13/code/game/gamemodes/overmap/shakedown.dm	LOCALIZATION	5	5	5	0	N	N	N		LOW	B	Pakiet tłumaczeń (#73)
+nsv13/code/game/machinery/dance_machine.dm	GAMEPLAY	27	26	0	1	N	N	N		LOW	-	Jukebox [Port 789] (#28)
+nsv13/code/game/machinery/lore_terminal.dm	GAMEPLAY	5	5	0	3	N	N	N		LOW	-	Ambiencja [port 605] (#34)
+nsv13/code/game/machinery/munitions_machinery.dm	GAMEPLAY	2	1	0	1	N	N	N		LOW	-	dodanie kostiumow, qol modularyzacji, ikony error 
+nsv13/code/game/objects/items/bloody_eye.dm	GAMEPLAY	2	2	0	2	N	N	N		LOW	-	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+nsv13/code/game/objects/items/custom_guns.dm	MIXED	4	4	2	0	N	N	N		LOW	B	Podmiana Ikon broni NSV (#94)
+nsv13/code/modules/antagonists/simple_teamchat.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	Pakiet tłumaczeń (#73)
+nsv13/code/modules/clothing/masks/_masks.dm	GAMEPLAY	1	1	0	1	N	N	N		LOW	-	Cichsze dźwięki oddychania w masce (#52)
+nsv13/code/modules/clothing/masks/hailer.dm	LOCALIZATION	3	3	2	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+nsv13/code/modules/jobs/job_types/air_traffic_controller.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+nsv13/code/modules/jobs/job_types/bridge.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tweaks (#305)
+nsv13/code/modules/jobs/job_types/marine/midshipman.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tweaks (#305)
+nsv13/code/modules/jobs/job_types/marine/military_police.dm	GAMEPLAY	3	3	0	1	N	N	N		LOW	-	tweaks (#305) | Tonfa milicyjna (#267)
+nsv13/code/modules/jobs/job_types/master_at_arms.dm	GAMEPLAY	1	1	0	0	N	N	N		LOW	-	tweaks (#305)
+nsv13/code/modules/jobs/job_types/munitions_technician.dm	GAMEPLAY	2	2	0	0	N	N	N		LOW	-	tweaks (#305)
+nsv13/code/modules/jobs/job_types/pilot.dm	GAMEPLAY	3	3	0	0	N	N	N		LOW	-	tweaks (#305)
+nsv13/code/modules/jobs/security/weapons.dm	LOCALIZATION	33	32	22	1	N	N	N		LOW	B	dżokerowskie balansy (#87) | Podmiana Ikon broni NSV (#94)
+nsv13/code/modules/mob/living/carbon/human/species_types/catgirl.dm	LOCALIZATION	7	7	5	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+nsv13/code/modules/mob/living/carbon/human/species_types/other_knpc.dm	LOCALIZATION	8	8	6	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+nsv13/code/modules/mob/living/carbon/human/species_types/spacepirate_knpc.dm	LOCALIZATION	3	3	2	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+nsv13/code/modules/mob/living/carbon/human/species_types/syndicate_knpc.dm	LOCALIZATION	13	13	8	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+nsv13/code/modules/mob/living/simple_animal/bot/catmed.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	B	 tlumaczy catmedbota (#257)
+nsv13/code/modules/munitions/munitions_trolley.dm	GAMEPLAY	11	0	0	2	N	N	N		LOW	-	[Atlas] Losowe silniki - Rework Inżynierii, Atmosf
+nsv13/code/modules/munitions/ship_weapons/ballistic_weapons/revision2/automation.dm	GAMEPLAY	31	0	0	0	Y	Y	N	1	MEDIUM(both sides changed)	-	Aktualizacja do NSV13 (#68)
+nsv13/code/modules/overmap/FTL/components/drive.dm	GAMEPLAY	5	5	0	1	N	N	N		LOW	-	Aktualizacja do NSV13 (#68) | Ambiencja [port 605] (#34)
+nsv13/code/modules/overmap/FTL/ftl_jump.dm	LOCALIZATION	5	5	5	0	Y	Y	N	1	MEDIUM(both sides changed)	C	Pakiet tłumaczeń (#73)
+nsv13/code/modules/overmap/FTL/ftl_legacy.dm	MIXED	2	2	1	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73)
+nsv13/code/modules/overmap/ai-skynet.dm	LOCALIZATION	2	2	2	0	Y	Y	N	1,2,3,4	MEDIUM(both sides changed)	C	Pakiet tłumaczeń (#73) | Aktualizacja do NSV13 (#68)
+nsv13/code/modules/overmap/factions.dm	LOCALIZATION	2	2	2	0	N	N	N		LOW	C	Pakiet tłumaczeń (#73) | Aktualizacja do NSV13 (#68)
+nsv13/code/modules/overmap/fleet_combat/combat_handling.dm	LOCALIZATION	1	1	1	0	Y	Y	Y	3	HIGH(textual conflict)	C	Pakiet tłumaczeń (#73)
+nsv13/code/modules/overmap/overmap.dm	LOCALIZATION	2	2	2	0	Y	Y	N	1,2,3,4	MEDIUM(both sides changed)	C	Pakiet tłumaczeń (#73) | Aktualizacja do NSV13 (#68)
+nsv13/code/modules/overmap/weapons/damage.dm	LOCALIZATION	5	5	5	0	Y	Y	N	2,3,4	MEDIUM(both sides changed)	C	Pakiet tłumaczeń (#73)
+nsv13/code/modules/power/stormdrive.dm	LOCALIZATION	3	2	2	1	Y	Y	N	1,4	MEDIUM(both sides changed)	C	Dodaje wybuchowy implant który reaguje na eksplozj | Kompilacja dotychczasowych zmian Jokera (bez porto
+nsv13/code/modules/research/astrometrics.dm	MIXED	3	3	1	0	Y	Y	Y	1	HIGH(textual conflict)	C	Pakiet tłumaczeń (#73)
+nsv13/icons/mob/inhands/weapons/guns_lefthand.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/icons/mob/inhands/weapons/guns_righthand.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/icons/obj/ammo.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/icons/obj/card.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/icons/obj/guns/guns_big.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/icons/obj/guns/projectile.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/effects/ship/action_stations.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/effects/ship/condition_zebra.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/effects/ship/incoming_missile.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/effects/ship/reactor/core_overheating.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/effects/ship/reactor/meltdown.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/effects/ship/sscrit/countdown.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/effects/ship/sscrit/hullcrit_10.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/effects/ship/sscrit/hullcrit_15.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/effects/ship/sscrit/hullcrit_5.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/effects/ship/sscrit/hullcrit_6.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/effects/ship/sscrit/hullcrit_rare_announcement.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/voice/ftl_cancelled.wav	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/voice/ftl_ready.wav	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/voice/ftl_spoolup.wav	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/voice/ftl_start.wav	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/voice/scan_start.wav	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/voice/scanning_cancelled.wav	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/voice/scanning_complete.wav	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/voice/sechailer/dispatch_please_respond.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/weapons/glock.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/weapons/rifle_fire.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+nsv13/sound/weapons/smg_fire.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/aliens.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/attention.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/commandreport.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/granomalies.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/intercept.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/ionstorm.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/meteors.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/outbreak5.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/outbreak7.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/poweroff.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/poweron.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/radiation.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/shuttlecalled.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/shuttledock.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/shuttlerecalled.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/spanomalies.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ai/default/welcome.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ambience/VoidsEmbrace.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ambience/license.txt	GAMEPLAY	4	3	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+sound/ambience/title1.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ambience/title2.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ambience/title3.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ambience/title4.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ambience/title5.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/ambience/title6.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/creatures/space_dragon_roar.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/items/lighter1.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/items/lighter2.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/magic/voidblink.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/misc/ahaha.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/adios.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/ale_urwal.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/andrzej.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/apcdestroyed.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/bangindonk.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/cipki.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/disappointed.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/dzokerowski_smiec.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/hemoglobina.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/hot_cross_buns.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/hullbreach.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/its_only_game.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/leavingtg.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/muwalt.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/nara.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/newroundsexy.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/scrunglartiy.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/stonoga.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/synek.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/whyban.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/roundend/yeehaw.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/asshole.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/bash.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/bobby.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/compliance.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/dontmove.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/dredd.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/emag.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/floor.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/freeze.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/god.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/halt.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/harry.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/imperial.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/justice.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/robocop.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/running.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/shutup.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/stfu.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/voice/complionator/super.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/weapons/gunshot.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/weapons/gunshot_silenced.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/weapons/laser.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/weapons/revolver357shot.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/weapons/revolver38shot.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/weapons/rifleshot.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/weapons/rocketlaunch.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/weapons/shotgunpump.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/weapons/shotgunshot.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/weapons/smgshot.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+sound/weapons/taser2.ogg	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+stack_objects.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+statue.dmi	ASSET	0	0	0	0	N	N	N		LOW	n/a	
+strings/dreamstrings.txt	LOCALIZATION	44	43	15	0	N	N	N		LOW	A	tłumaczenia (#53)
+strings/greek_letters.txt	LOCALIZATION	1	1	0	0	N	N	N		LOW	A	tłumaczenia (#53)
+strings/hallucination.json	LOCALIZATION	137	136	55	0	N	N	N		LOW	A	Kompilacja dotychczasowych zmian Jokera (bez porto
+strings/heretic_influences.json	LOCALIZATION	67	0	0	0	N	N	N		LOW	A	Heretycy z bee (#90)
+strings/ion_laws.json	LOCALIZATION	732	733	322	0	N	N	N		LOW	A	Pakiet tłumaczeń (#73) | Kompilacja dotychczasowych zmian Jokera (bez porto
+strings/names/ethereal.txt	LOCALIZATION	1	1	0	0	N	N	N		LOW	A	
+strings/names/first_female.txt	LOCALIZATION	297	739	36	0	N	N	N		LOW	A	tłumaczy bełkot naukowców + imiona (#58)
+strings/names/first_male.txt	LOCALIZATION	308	646	64	0	N	N	N		LOW	A	tłumaczy bełkot naukowców + imiona (#58)
+strings/names/last_female.txt	LOCALIZATION	600	0	198	0	N	N	N		LOW	A	tłumaczy bełkot naukowców + imiona (#58)
+strings/names/last_male.txt	LOCALIZATION	600	0	198	0	N	N	N		LOW	A	tłumaczy bełkot naukowców + imiona (#58)
+strings/names/megacarp1.txt	LOCALIZATION	1	1	0	0	N	N	N		LOW	A	Kompilacja dotychczasowych zmian Jokera (bez porto
+strings/names/megacarp2.txt	LOCALIZATION	1	1	0	0	N	N	N		LOW	A	Kompilacja dotychczasowych zmian Jokera (bez porto
+strings/numbers_as_words.txt	LOCALIZATION	20	20	14	0	N	N	N		LOW	A	tłumaczenia (#53)
+strings/phobia.json	LOCALIZATION	174	161	52	0	N	N	N		LOW	A	tłumaczenia (#53)
+strings/round_start_sounds.txt	LOCALIZATION	3	0	0	0	N	N	N		LOW	A	zmiany z dotychczasowych gier (#79) | Kompilacja dotychczasowych zmian Jokera (bez porto
+strings/sillytips.txt	LOCALIZATION	41	47	36	0	N	N	N		LOW	A	Kompilacja dotychczasowych zmian Jokera (bez porto
+strings/station_names.txt	LOCALIZATION	16	49	4	0	N	N	N		LOW	A	Kompilacja dotychczasowych zmian Jokera (bez porto
+strings/tips.txt	LOCALIZATION	1	0	1	0	N	N	N		LOW	A	Beryl bardziej robustny (#221)
+strings/wanted_message.json	LOCALIZATION	61	61	33	0	N	N	N		LOW	A	tłumaczenia (#53)
+tgui/packages/tgui/interfaces/AntagInfoHeretic.tsx	GAMEPLAY	373	0	0	0	N	N	N		LOW	-	Heretycy z bee (#90)
+tgui/packages/tgui/interfaces/CommunicationsConsole.js	GAMEPLAY	32	0	0	0	N	N	N		LOW	-	interns maj belowed (#291) | ERT na zawołanie załogi - mniej więcej (#286)
+tools/Runtime Condenser/Output.txt	INFRASTRUCTURE	1	1	0	0	N	N	N		LOW	n/a	Dodaje małpi hełm, skiny borgów + jakąś tam krew (
+tools/UpdatePaths/AQUILA_xenobiofun.txt	INFRASTRUCTURE	1	0	0	0	N	N	N		LOW	n/a	Więcej możliwości dla duchów oraz więcej !!FUN!! w
+tools/build/build.js	INFRASTRUCTURE	1	0	0	0	N	N	N		LOW	n/a	Dodaje nullcrate + modularyzacja (#1)
